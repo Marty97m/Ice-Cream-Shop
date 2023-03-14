@@ -6,6 +6,7 @@ body{
     background-size: cover;
     z-index: -1;
     background-attachment: scroll;
+    height: 800px;
     
 
     
@@ -65,3 +66,4 @@ h1{
         background-color:rgb(218, 29, 29);
         border-radius: 100px;
     }
+    
