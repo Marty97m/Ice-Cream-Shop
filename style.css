@@ -13,8 +13,20 @@ body{
     border: none;
 }
 h1{
-    font-family: 'Tilt Prism', cursive;
+    font-family: 'Dancing Script',cursive;
+    font-size: 200%;
+    color: black;
+    text-transform: uppercase;
+    
+    
 }
 .sweet{
     font-family: 'Dancing Script',cursive;
+    font-size: 220%;
+    color: rgb(234, 24, 136);
+    text-transform: uppercase;
+    
+}
+#logo{
+    margin: 10px 30px;
 }
